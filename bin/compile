@@ -47,5 +47,5 @@ start "Installing Dependencies"
 finished
 
 start "building the app"
-  bun run build --target bun --compile
+  bun build --target bun --compile
 finished
