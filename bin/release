@@ -5,5 +5,5 @@ cat << EOF
 addons:
   []
 default_process_types:
-  web: bun ./src/app.ts
+  web: ./app
 EOF
